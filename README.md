@@ -1,5 +1,5 @@
 # Stealthburner-Umbilical-mod
-!(/v1.1/Images/thumbnail.png)
+![image](/v1.1/Images/thumbnail.png)
 Hallo Leute,
 hier die v1.1 meines Umbilical mods für den Stealthburner mit CW2 und BTT EBB36. Als Zuleitung wird Ölflex Classic FD 810 CY mit 4x0,5mm^2 von Lapp Kabel verwendet.
 Es gibt zwei Varianten des Cable Covers. Eine mit und eine ohne 4010er Lüfter.
